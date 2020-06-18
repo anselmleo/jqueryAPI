@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: blueviolet;
+  padding: 50px;
+}
+
+.header-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+
+.user-row {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 0;
+  background-color: white;
+}
+
+.user-image {
+  border-radius: 50%;
+}
